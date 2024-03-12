@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings and salutations!
 
 <!--
 **Sib1337/Sib1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
